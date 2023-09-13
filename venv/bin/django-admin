@@ -1,4 +1,6 @@
-#!/home/mattb/Documents/GitHub/cd-squared-tech/venv/bin/python3
+#!/bin/sh
+'''exec' "/mnt/d/IT learning/CDTech/cd-squared-tech/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -11,7 +11,13 @@ Rachel D.
 
 */
 
+
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Lato:ital,wght@0,100;0,300;1,100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Lato:ital,wght@0,100;0,300;1,100&family=Noto+Sans:wght@100&display=swap");
+
 /* Color Variables */
+
 :root {
   --ligherBlueSteel: #f5fafc;
   --lightBlueSteel: #bdced5;
@@ -22,9 +28,6 @@ Rachel D.
   --headerHeight: 130px;
 }
 
-/* Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Lato:ital,wght@0,100;0,300;1,100&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Lato:ital,wght@0,100;0,300;1,100&family=Noto+Sans:wght@100&display=swap");
 
 * {
   box-sizing: border-box;
