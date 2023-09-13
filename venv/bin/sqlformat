@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/mnt/d/IT learning/CDTech/cd-squared-tech/venv/bin/python" "$0" "$@"
+'''exec' "/mnt/d/IT learning/CDTech/cd-squared-tech/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
