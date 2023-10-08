@@ -1,0 +1,2 @@
+# allow Dockerfile to be included in repo
+!Dockerfile
